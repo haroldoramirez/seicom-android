@@ -1,1 +1,6 @@
 *.txt
+app.iml
+build.gradle
+proguard-rules.pro
+build
+libs
