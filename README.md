@@ -9,6 +9,11 @@
 * DAO
 * Persistência no SQLite
 
+### [Exercícios](https://github.com/medeirosthiiago/seicom-android/tree/master/exercicios)
+[Ex 01]()
+[Ex 01]()
+[Ex 01]()[Ex 01]()
+
 #### Arquivos
 - APK
 - src (código fonte do aplicativo)
