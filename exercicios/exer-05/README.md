@@ -1,7 +1,7 @@
 # Exercício 05
 
 ## 1. Precisamos agora criar uma classe _FormularioHelper_ que irá nos ajudar a persistir os dados no aplicativo:
-Precisamos intanciar uma classe para nos ajudar na persistência dos dados.
+Precisamos intanciar uma classe para nos ajudar na persistência dos dados
 Essa classe irá se chamar __FormularioHelper__ e seu construtor deve ser desenvolvido da seguinte maneira:
 ```java
 public FormularioHelper (FormularioActivity activity) {
@@ -11,7 +11,7 @@ public FormularioHelper (FormularioActivity activity) {
     campoEndereco = (EditText) activity.findViewById(R.id.formulario_endereco);
 }
 ```
-## 2. É preciso agora criar uma classe para o nosso Contato.
+## 2. É preciso agora criar uma classe para o nosso Contato
 Criar a classe Contato com o seguinte path:
 > br > com > agenda > modelo > Contato
 
@@ -24,7 +24,7 @@ private String telefone;
 private String email;
 private String endereco;
 ```
-Os getters e setters podem ser gerados através do atalho __Alt + Insert__.
+Os getters e setters podem ser gerados através do atalho __Alt + Insert__
 
 ## 3. Depois criamos um método _pegaContato()_ com a finalidade de pegar as informações de um contato.
 Este método irá instanciar um novo contato e depois setar os nomes dele utilizando os campos criados no construtor.
@@ -41,7 +41,7 @@ public Contato pegaContato() {
 }
 ```
 
-## 4. Na _FormularioActivity_ é preciso instanciar o _FormularioHelper_ e aplicar o método criado:
+## 4. Na _FormularioActivity_ é preciso instanciar o _FormularioHelper_ e aplicar o método criado
 
 ```java
 private FormularioHelper helper;
