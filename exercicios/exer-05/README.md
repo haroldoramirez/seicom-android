@@ -1,7 +1,7 @@
 # Exercício 05
 
-## 1. Precisamos agora criar uma classe _FormularioHelper_ que irá nos ajudar a persistir os dados no aplicativo:
-Precisamos intanciar uma classe para nos ajudar na persistência dos dados
+## 1. Precisamos agora criar uma classe _FormularioHelper_ que irá nos ajudar a persistir os dados no aplicativo
+Precisamos intanciar uma classe para nos ajudar na persistência dos dados.
 Essa classe irá se chamar __FormularioHelper__ e seu construtor deve ser desenvolvido da seguinte maneira:
 ```java
 public FormularioHelper (FormularioActivity activity) {
