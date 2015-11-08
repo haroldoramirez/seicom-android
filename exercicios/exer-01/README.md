@@ -15,5 +15,5 @@
 <img width="1075" alt="android_studio_10" src="https://cloud.githubusercontent.com/assets/4070127/11021767/8916865c-8633-11e5-9dde-91ed2ac1e8ff.png">
 <img width="1077" alt="android_studio_11" src="https://cloud.githubusercontent.com/assets/4070127/11021766/89152d2a-8633-11e5-81ff-022757e20ec8.png">
 
-## Após esses passos executar o projeto
+## Executar o aplicativo
 <img width="716" alt="android_studio_12" src="https://cloud.githubusercontent.com/assets/4070127/11021782/d795a696-8633-11e5-84c3-58e4452940db.png">
