@@ -122,12 +122,3 @@ protected void onResume() {
     carregaLista();
 }
 ```
-
-
-
-
-
-
-
-```java
-```
