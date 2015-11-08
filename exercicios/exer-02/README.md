@@ -1,6 +1,6 @@
 # Exercício 02
 
-## 1. Vamos atualizar o arquivo _activity\_lista\_contatos_.xml:
+## 1. Vamos atualizar o arquivo _activity\_lista\_contatos_.xml
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -16,7 +16,7 @@
 </LinearLayout>
 ```
 
-## 2. No _ListaContatosActivity_ adicionar um array de String e inseri-lo a nossa _ListView_ utilizando um _adapter_:
+## 2. No _ListaContatosActivity_ adicionar um array de String e inseri-lo a nossa _ListView_ utilizando um _adapter_
 ```java
 @Override
 protected void onCreate(Bundle savedInstanceState) {
