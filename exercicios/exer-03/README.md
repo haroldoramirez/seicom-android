@@ -1,5 +1,11 @@
 # Exercício 03
 
+## 1. Neste exercício iremos criar uma nova _activity_:
+Através do menu podemos criá-lo da seguinte maneira:
+> File > New > Activity > Empty Activity > FormularioActivity > Finish
+
+## 2. Editar o layout da nova activity:
+Um layout referente a _FormularioActivity_ será criado (_activity\_formulario.xml_), então é necessário adicionar as novas __views__ para editar o texto e um botão para salvar o contato.
 ```xml
 <LinearLayout
     android:layout_width="match_parent"
@@ -39,6 +45,9 @@
 </LinearLayout>
 ```
 
+## 3. Com o layout pronto é preciso criar um comportamento para o botão:
+Primeiro iremos criar o nosso botão na activity e depois colocá-lo para _escutar_ alguma interação através do método __setOnClickListener__.
+Depois utilizaremos uma __Toast__ para mostrar a mensagem de "Contato salvo!".
 ```java
 Button salvarContato = (Button) findViewById(R.id.formulario_salvar_contato);
 salvarContato.setOnClickListener(new View.OnClickListener() {
