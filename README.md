@@ -9,7 +9,7 @@
 * DAO
 * Persistência no SQLite
 
-Exercícios a serem desenvolvidos durante o curso:
+[Exercícios](https://github.com/medeirosthiiago/seicom-android/tree/master/exercicios) a serem desenvolvidos durante o curso:
 [01](https://github.com/medeirosthiiago/seicom-android/tree/master/exercicios/exer-01), 
 [02](https://github.com/medeirosthiiago/seicom-android/tree/master/exercicios/exer-02), 
 [03](https://github.com/medeirosthiiago/seicom-android/tree/master/exercicios/exer-03), 
