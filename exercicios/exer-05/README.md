@@ -14,6 +14,7 @@ public FormularioHelper (FormularioActivity activity) {
 ## 2. É preciso agora criar uma classe para o nosso Contato.
 Criar a classe Contato com o seguinte path:
 > br > com > agenda > modelo > Contato
+
 Agora é preciso declarar os atributos de um contato. Acrescentamos um atributo __id__ pois utilizaremos ele no nosso
 banco de dados.
 ```java
