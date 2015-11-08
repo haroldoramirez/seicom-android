@@ -14,3 +14,17 @@
 
 </LinearLayout>
 ```
+
+```java
+@Override
+protected void onCreate(Bundle savedInstanceState) {
+    super.onCreate(savedInstanceState);
+    setContentView(R.layout.activity_formulario);
+
+    String[] contatos = {"Thiago", "João", "Luciano"};
+    ListView listaContatos = (ListView) findViewById(R.id.lista_contatos);
+    ArrayAdapter<String> adapter = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, contatos);
+    listaContatos.setAdapter(adapter);
+
+}
+```
