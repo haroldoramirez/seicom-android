@@ -26,7 +26,7 @@ private String endereco;
 ```
 Os getters e setters podem ser gerados através do atalho __Alt + Insert__.
 
-## 3. Depois criamos um método __pegaContato()__ com a finalidade de pegar as informações de um contato.
+## 3. Depois criamos um método _pegaContato()_ com a finalidade de pegar as informações de um contato.
 Este método irá instanciar um novo contato e depois setar os nomes dele utilizando os campos criados no construtor.
 ```java
 public Contato pegaContato() {
