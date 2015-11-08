@@ -20,7 +20,8 @@
 
 #### Arquivos
 - APK
-- src (código fonte do aplicativo)
+- [src (código fonte do aplicativo)](https://github.com/medeirosthiiago/seicom-android/tree/master/src)
+- [Agenda resources](https://github.com/medeirosthiiago/seicom-android/blob/master/agenda-res.zip)
 
 #### Links Interessantes
 - http://developer.android.com/intl/pt-br/index.html
