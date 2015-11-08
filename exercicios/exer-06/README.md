@@ -103,7 +103,7 @@ Lembre-se de reescrever o método __toString()__ na classe Contato
     }
 ```
 
-## 6. Refatorar a nossa activity _ListaContatosActivity_ e adicionar no _onResume()_
+## 6. Refatorar a nossa _activity_ _ListaContatosActivity_ e adicionar no _onResume()_
 É preciso refatorar a instância DAO e a listaContatos e chamar a refatoração no __onResume()__.
 ```java
 private void carregaLista() {
