@@ -9,10 +9,14 @@
 * DAO
 * Persistência no SQLite
 
-### [Exercícios](https://github.com/medeirosthiiago/seicom-android/tree/master/exercicios)
-[Ex 01]()
-[Ex 01]()
-[Ex 01]()[Ex 01]()
+Exercícios a serem desenvolvidos durante o curso:
+[01](https://github.com/medeirosthiiago/seicom-android/tree/master/exercicios/exer-01), 
+[02](https://github.com/medeirosthiiago/seicom-android/tree/master/exercicios/exer-02), 
+[03](https://github.com/medeirosthiiago/seicom-android/tree/master/exercicios/exer-03), 
+[04](https://github.com/medeirosthiiago/seicom-android/tree/master/exercicios/exer-04), 
+[05](https://github.com/medeirosthiiago/seicom-android/tree/master/exercicios/exer-05), 
+[06](https://github.com/medeirosthiiago/seicom-android/tree/master/exercicios/exer-06), 
+[07](https://github.com/medeirosthiiago/seicom-android/tree/master/exercicios/exer-07).
 
 #### Arquivos
 - APK
