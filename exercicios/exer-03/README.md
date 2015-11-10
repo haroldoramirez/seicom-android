@@ -1,4 +1,7 @@
 # Exercício 03
+Este exercício tem como objetivo criar uma nova _activity_ chamada de __FormularioActivity__ que vai disponibilizar uma tela com campos textuais para o usuário inserir os dados do contato.
+
+Feito o layout do nosso formulário, iremos criar um comportamento para o botão salvar, afim dele mostrar uma mensagem (__Toast__) que o contato foi salvo.
 
 ## 1. Neste exercício iremos criar uma nova _activity_
 Através do menu podemos criá-lo da seguinte maneira:
