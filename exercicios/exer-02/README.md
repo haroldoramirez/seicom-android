@@ -31,5 +31,6 @@ protected void onCreate(Bundle savedInstanceState) {
 
 }
 ```
-[⇽ Exercício 01](https://github.com/medeirosthiiago/seicom-android/tree/master/exercicios/exer-01)
-[⇾ Exercício 03](https://github.com/medeirosthiiago/seicom-android/tree/master/exercicios/exer-03)
+[⇦ Exercício 01](https://github.com/medeirosthiiago/seicom-android/tree/master/exercicios/exer-01)
+
+[⇨ Exercício 03](https://github.com/medeirosthiiago/seicom-android/tree/master/exercicios/exer-03)
