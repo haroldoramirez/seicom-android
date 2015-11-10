@@ -1,4 +1,8 @@
 # Exercício 05
+Neste exercício iremos criar classes que nos ajudará na persistência dos dados.
+Primeiro criaremos um __FormularioHelper__ para nos auxiliar a pegar os campos do formulario e jogar para uma instância de __Contato__.
+
+Depois testaremos utilizando o __Toast__ para notificar o nome do contato que será salvo.
 
 ## 1. Precisamos agora criar uma classe _FormularioHelper_ que irá nos ajudar a persistir os dados no aplicativo
 Precisamos intanciar uma classe para nos ajudar na persistência dos dados.
@@ -69,3 +73,7 @@ public boolean onOptionsItemSelected(MenuItem item) {
     return super.onOptionsItemSelected(item);
 }
 ```
+
+[⇦ Exercício 04](https://github.com/medeirosthiiago/seicom-android/tree/master/exercicios/exer-04)
+
+[⇨ Exercício 06](https://github.com/medeirosthiiago/seicom-android/tree/master/exercicios/exer-06)
