@@ -1,4 +1,6 @@
 # Exercício 01
+O objetivo desta atividade é criar um projeto no Android Studio, criar uma nova Android Virtual Device, e então executar o 'Hello World!'.
+
 ## 1. Iniciando e criando um projeto no Android Studio
 <img width="795" alt="android_studio_01" src="https://cloud.githubusercontent.com/assets/4070127/11021710/15e6b0ea-8632-11e5-916e-4d49e52a1938.png">
 <img width="1077" alt="android_studio_02" src="https://cloud.githubusercontent.com/assets/4070127/11023511/d6ab8146-8661-11e5-99b9-19d221eec7ab.png">
