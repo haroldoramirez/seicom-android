@@ -60,5 +60,6 @@ salvarContato.setOnClickListener(new View.OnClickListener() {
     }
 });
 ```
+[⇦ Exercício 02](https://github.com/medeirosthiiago/seicom-android/tree/master/exercicios/exer-02)
 
-[➜ Exercício 04](https://github.com/medeirosthiiago/seicom-android/tree/master/exercicios/exer-04)
+[⇨ Exercício 04](https://github.com/medeirosthiiago/seicom-android/tree/master/exercicios/exer-04)
