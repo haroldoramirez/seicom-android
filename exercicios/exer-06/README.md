@@ -1,4 +1,9 @@
 # Exercício 06
+Durante este exercício iremos criar um objeto __DAO (Data Access Object)__ que irá ajudar na persistência dos nossos dados.
+
+Iremos utilizar elementos da classe __SQLiteOpenHelper__ para iniciarmos o banco de dados, criar e popular uma tabela.
+
+Depois criaremos uma lista nova e vazia que será apresentada na nossa _activity_ principal e carregaremos essa lista com o entendimento do ciclo de vida de uma _activity_.
 
 ## 1. Criar um objeto DAO (Data Access Object)
 Iremos criar uma classe chamada __ContatoDAO__ no seguinte path:
@@ -122,3 +127,7 @@ protected void onResume() {
     carregaLista();
 }
 ```
+
+[⇦ Exercício 05](https://github.com/medeirosthiiago/seicom-android/tree/master/exercicios/exer-05)
+
+[⇨ Exercício 07](https://github.com/medeirosthiiago/seicom-android/tree/master/exercicios/exer-07)
