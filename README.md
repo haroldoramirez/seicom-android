@@ -30,3 +30,4 @@
 - http://www.vogella.com/tutorials/android.html
 - http://www.androidhive.info/
 - http://phonegap.com/
+- http://developer.android.com/intl/pt-br/tools/publishing/app-signing.html
