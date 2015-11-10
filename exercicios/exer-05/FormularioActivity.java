@@ -37,6 +37,7 @@ public class FormularioActivity extends AppCompatActivity {
                 Contato contato = helper.pegaContato();
                 Toast.makeText(FormularioActivity.this, "Contato " + contato.getNome() + " salvo!", Toast.LENGTH_SHORT).show();
                 finish();
+                break;
         }
         return super.onOptionsItemSelected(item);
     }
