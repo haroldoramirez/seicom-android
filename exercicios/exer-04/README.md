@@ -83,6 +83,7 @@ public boolean onOptionsItemSelected(MenuItem item) {
 }
 ```
 
-#
+#    
 [⇦ Exercício 03](https://github.com/medeirosthiiago/seicom-android/tree/master/exercicios/exer-03)
+
 [⇨ Exerícico 05](https://github.com/medeirosthiiago/seicom-android/tree/master/exercicios/exer-05)
