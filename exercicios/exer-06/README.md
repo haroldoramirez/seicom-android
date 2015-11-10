@@ -1,7 +1,7 @@
 # Exercício 06
-Durante este exercício iremos criar um objeto __DAO (Data Access Object)__ que irá ajudar na persistência dos nossos dados.
+Durante este exercício vamos criar um objeto __DAO (Data Access Object)__ que irá ajudar na persistência dos nossos dados.
 
-Iremos utilizar elementos da classe __SQLiteOpenHelper__ para iniciarmos o banco de dados, criar e popular uma tabela.
+Utilizaremos elementos da classe __SQLiteOpenHelper__ para iniciarmos o banco de dados, criar e popular uma tabela.
 
 Depois criaremos uma lista nova e vazia que será apresentada na nossa _activity_ principal e carregaremos essa lista com o entendimento do ciclo de vida de uma _activity_.
 
