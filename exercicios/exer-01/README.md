@@ -7,8 +7,8 @@
 <img width="1078" alt="android_studio_05" src="https://cloud.githubusercontent.com/assets/4070127/11021854/1a7e6e32-8636-11e5-867d-3909742038d2.png">
 
 ## 2. Criando um Android Virtual Device (AVD)
-<img width="997" alt="android_studio_06" src="https://cloud.githubusercontent.com/assets/4070127/11021762/89097070-8633-11e5-8f02-ed6132ada049.png">
-<img width="1236" alt="android_studio_07" src="https://cloud.githubusercontent.com/assets/4070127/11021763/890e8f92-8633-11e5-9bc3-ebd7035a0f0f.png">
+<img width="997" alt="android_av01" src="https://cloud.githubusercontent.com/assets/4070127/11053130/6d69d16c-8745-11e5-8267-84d81679c68b.png">
+<img width="1236" alt="android_avd02" src="https://cloud.githubusercontent.com/assets/4070127/11021763/890e8f92-8633-11e5-9bc3-ebd7035a0f0f.png">
 <img width="1078" alt="android_studio_08" src="https://cloud.githubusercontent.com/assets/4070127/11021764/89100624-8633-11e5-8eb1-0ed5cd9cc720.png">
 <img width="1074" alt="android_studio_09" src="https://cloud.githubusercontent.com/assets/4070127/11021765/8910246a-8633-11e5-9e78-f56e4f985e21.png">
 <img width="1075" alt="android_studio_10" src="https://cloud.githubusercontent.com/assets/4070127/11021767/8916865c-8633-11e5-9dde-91ed2ac1e8ff.png">
