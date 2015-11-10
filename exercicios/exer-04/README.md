@@ -1,4 +1,7 @@
 # Exercício 04
+Vamos criar um botão na _activity_ __ListaContatosActivity__ com o objetivo de adicionar um contato novo. Para isso será necessário criar uma intenção (__intent__) que vai pular de uma _activity_ para outra.
+
+Depois criaremos uma opção de menu para salvar o contato na __FormularioActivity__.
 
 ## 1. Criar um botão para a _activity_ _ListaContatosActivity_
 ```xml
@@ -79,3 +82,7 @@ public boolean onOptionsItemSelected(MenuItem item) {
     return super.onOptionsItemSelected(item);
 }
 ```
+
+#
+[⇦ Exercício 03](https://github.com/medeirosthiiago/seicom-android/tree/master/exercicios/exer-03)
+[⇨ Exerícico 05](https://github.com/medeirosthiiago/seicom-android/tree/master/exercicios/exer-05)
