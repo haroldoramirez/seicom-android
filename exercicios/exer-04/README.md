@@ -46,6 +46,10 @@ novoContato.setOnClickListener(new View.OnClickListener() {
 
 ## 3. Criar uma opção de menu para _FormularioActivity_
 Primeiro é necessário criar um novo diretório dentro de __res__. Esse diretório se chamará __menu__ e então iremos criar um drawable resource file chamado de __menu_formulario.xml__.
+
+Antes disso precisamos copiar os arquivos de recurso ([download res](https://github.com/medeirosthiiago/seicom-android/blob/master/agenda-res.zip?raw=true)) para o seguinte path:
+> Agenda > app > src > main > res 
+
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
@@ -61,7 +65,7 @@ Primeiro é necessário criar um novo diretório dentro de __res__. Esse diretó
 </menu>
 ```
 
-Próximo passo é criar um meno no __FormularioActivity__, 
+Próximo passo é criar um menu no __FormularioActivity__, 
 ```java
 @Override
 public boolean onCreateOptionsMenu(Menu menu) {
@@ -70,6 +74,7 @@ public boolean onCreateOptionsMenu(Menu menu) {
     return super.onCreateOptionsMenu(menu);
 }
 ```
+
 E então criar um método que habilitar a opção selecionada e terminar a intenção voltando para nossa activity principal
 ```java
 @Override
