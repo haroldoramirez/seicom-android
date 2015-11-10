@@ -1,4 +1,5 @@
 # Exercício 02
+Neste exercício iremos ajustar o layout da _activity_ principal, __ListaContatosActivity__ e depois criarmos uma lista de Strings que simulará nossos futuros contatos.
 
 ## 1. Vamos atualizar o arquivo _activity\_lista\_contatos_.xml
 ```xml
