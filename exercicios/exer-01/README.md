@@ -20,4 +20,4 @@
 <img width="575" alt="android_studio_run" src="https://cloud.githubusercontent.com/assets/4070127/11063945/02a5c6ae-87a1-11e5-9066-14e66dfbd4bf.png">
 
 
-[➜ Exercício 02](https://github.com/medeirosthiiago/seicom-android/tree/master/exercicios/exer-02)
+[⇨ Exercício 02](https://github.com/medeirosthiiago/seicom-android/tree/master/exercicios/exer-02)
