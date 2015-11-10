@@ -13,6 +13,9 @@
 <img width="1074" alt="android_studio_09" src="https://cloud.githubusercontent.com/assets/4070127/11021765/8910246a-8633-11e5-9e78-f56e4f985e21.png">
 <img width="1075" alt="android_studio_10" src="https://cloud.githubusercontent.com/assets/4070127/11021767/8916865c-8633-11e5-9dde-91ed2ac1e8ff.png">
 <img width="1077" alt="android_studio_11" src="https://cloud.githubusercontent.com/assets/4070127/11021766/89152d2a-8633-11e5-81ff-022757e20ec8.png">
+<img width="1240" alt="androi_studio_avd" src="https://cloud.githubusercontent.com/assets/4070127/11063892/a3993c2c-87a0-11e5-98b3-ae4688ff2115.png">
 
 ## 3. Executar o aplicativo
 <img width="716" alt="android_studio_12" src="https://cloud.githubusercontent.com/assets/4070127/11021782/d795a696-8633-11e5-84c3-58e4452940db.png">
+<img width="575" alt="android_studio_run" src="https://cloud.githubusercontent.com/assets/4070127/11063945/02a5c6ae-87a1-11e5-9066-14e66dfbd4bf.png">
+
