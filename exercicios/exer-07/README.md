@@ -1,4 +1,7 @@
 # Exercício 07
+Nesta atividade iremos criar um menu de contexto na _activity_ __ListaContatos__, com a finalidade de remover um contato.
+
+Depois iremos preencher o formulário do contato para alterações.
 
 ## 1. Declarar listaContatos como um campo global na nossa _activity_ e registrar ela como um menu de contexto
 ```java
@@ -165,3 +168,5 @@ private ContentValues getContentValuesContato(Contato contato) {
     return dados;
 }
 ```
+
+[⇦ Exercício 06](https://github.com/medeirosthiiago/seicom-android/tree/master/exercicios/exer-06)
